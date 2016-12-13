@@ -1,0 +1,15 @@
+{
+    "name": "stephenafamo/wp-mailer-lite",
+    "description": "A wordpress plugin to connect to mailer-lite",
+    "type": "project",
+    "require": {
+        "mailerlite/mailerlite-api-v2-php-sdk": "^0.1.9"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Stephen Afam-Osemene",
+            "email": "stephenafamo@gmail.com"
+        }
+    ]
+}
